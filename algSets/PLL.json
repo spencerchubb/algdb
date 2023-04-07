@@ -1,0 +1,128 @@
+[
+    {
+        "name": "PLL 1",
+        "algs": [
+            "R' F R' B2 R F' R' B2 R2"
+        ]
+    },
+    {
+        "name": "PLL 2",
+        "algs": [
+            "R2 B2 R F R' B2 R F' R"
+        ]
+    },
+    {
+        "name": "PLL 3",
+        "algs": [
+            "R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R"
+        ]
+    },
+    {
+        "name": "PLL 4",
+        "algs": [
+            "R2 U R' U R' U' R U' R2 U' D R' U R D'"
+        ]
+    },
+    {
+        "name": "PLL 5",
+        "algs": [
+            "R' U' R U D' R2 U R' U R U' R U' R2 D"
+        ]
+    },
+    {
+        "name": "PLL 6",
+        "algs": [
+            "R2 U' R U' R U R' U R2 U D' R U' R' D"
+        ]
+    },
+    {
+        "name": "PLL 7",
+        "algs": [
+            "R U R' U' D R2 U' R U' R' U R' U R2 D'"
+        ]
+    },
+    {
+        "name": "PLL 8",
+        "algs": [
+            "x R2 F R F' R U2 L' B L U2 x'"
+        ]
+    },
+    {
+        "name": "PLL 9",
+        "algs": [
+            "R U R' F' R U R' U' R' F R2 U' R'"
+        ]
+    },
+    {
+        "name": "PLL 10",
+        "algs": [
+            "R U' R' U' R U R D R' U' R D' R' U2 R'"
+        ]
+    },
+    {
+        "name": "PLL 11",
+        "algs": [
+            "R2 F R U R U' R' F' R U2 R' U2 R"
+        ]
+    },
+    {
+        "name": "PLL 12",
+        "algs": [
+            "R U R' U' R' F R2 U' R' U' R U R' F'"
+        ]
+    },
+    {
+        "name": "PLL 13",
+        "algs": [
+            "x' R U' R' D R U R' D' R U R' D R U' R' D' x"
+        ]
+    },
+    {
+        "name": "PLL 14",
+        "algs": [
+            "R U R' U R U R' F' R U R' U' R' F R2 U' R' U2 R U' R'"
+        ]
+    },
+    {
+        "name": "PLL 15",
+        "algs": [
+            "R' U R U' R' F' U' F R U R' F R' F' R U' R"
+        ]
+    },
+    {
+        "name": "PLL 16",
+        "algs": [
+            "R' U R' U' y R' F' R2 U' R' U R' F R F"
+        ]
+    },
+    {
+        "name": "PLL 17",
+        "algs": [
+            "F R U' R' U' R U R' F' R U R' U' R' F R F'"
+        ]
+    },
+    {
+        "name": "PLL 18",
+        "algs": [
+            "M2 U M2 U2 M2 U M2"
+        ]
+    },
+    {
+        "name": "PLL 19",
+        "algs": [
+            "M2 U M U2 M' U M2"
+        ]
+    },
+    {
+        "name": "PLL 20",
+        "algs": [
+            "M2 U' M U2 M' U' M2"
+        ]
+    },
+    {
+        "name": "PLL 21",
+        "algs": [
+            "M' U M2 U M2 U M' U2 M2"
+        ]
+    }
+]

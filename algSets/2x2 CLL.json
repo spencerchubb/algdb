@@ -1,0 +1,254 @@
+[
+    {
+        "name": "2x2 CLL 1",
+        "algs": [
+            "R U R' U R U2 R'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 2",
+        "algs": [
+            "R U R' U R' F R F' R U2 R'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 3",
+        "algs": [
+            "F R' F' R U2 R U2 R'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 4",
+        "algs": [
+            "R U' L' U R' U' L"
+        ]
+    },
+    {
+        "name": "2x2 CLL 5",
+        "algs": [
+            "R U' R U' R' U R' U' F R' F'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 6",
+        "algs": [
+            "L' U2 L U2 L F' L' F"
+        ]
+    },
+    {
+        "name": "2x2 CLL 7",
+        "algs": [
+            "L' U' L U' L' U2 L"
+        ]
+    },
+    {
+        "name": "2x2 CLL 8",
+        "algs": [
+            "R' U' R U' R' U R' F R F' U R"
+        ]
+    },
+    {
+        "name": "2x2 CLL 9",
+        "algs": [
+            "F' L F L' U2 L' U2 L"
+        ]
+    },
+    {
+        "name": "2x2 CLL 10",
+        "algs": [
+            "L' U R U' L U R'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 11",
+        "algs": [
+            "R2 F R U2 R U' R' U2 F' R"
+        ]
+    },
+    {
+        "name": "2x2 CLL 12",
+        "algs": [
+            "R U2 R' U2 R' F R F'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 13",
+        "algs": [
+            "F R U R' U' R U R' U' F'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 14",
+        "algs": [
+            "R' U' R' F R F' R U' R' U2 R"
+        ]
+    },
+    {
+        "name": "2x2 CLL 15",
+        "algs": [
+            "R' F R F' R U' R' U' R U' R'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 16",
+        "algs": [
+            "F R2 U' R2 U R2 U R2 F'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 17",
+        "algs": [
+            "R U2 R' U' R U R' U2 R' F R F'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 18",
+        "algs": [
+            "F R' F' R U2 R U' R' U R U2 R'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 19",
+        "algs": [
+            "F R U R' U' F'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 20",
+        "algs": [
+            "R U R2' U' R U2 R' U2' R U' R"
+        ]
+    },
+    {
+        "name": "2x2 CLL 21",
+        "algs": [
+            "F R U R' U2 F' R U' R' F"
+        ]
+    },
+    {
+        "name": "2x2 CLL 22",
+        "algs": [
+            "x R U' R U' R' U R' F' R x2"
+        ]
+    },
+    {
+        "name": "2x2 CLL 23",
+        "algs": [
+            "R U' R2 F R F' R U R' U' R U R'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 24",
+        "algs": [
+            "R' U R' F R F' R U2 R' U R"
+        ]
+    },
+    {
+        "name": "2x2 CLL 25",
+        "algs": [
+            "F' L F L' U' L' U L"
+        ]
+    },
+    {
+        "name": "2x2 CLL 26",
+        "algs": [
+            "F R' F' R U R U' R'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 27",
+        "algs": [
+            "R U2 R2' F R F' R U2 R'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 28",
+        "algs": [
+            "R' U R' U2 R U' R' U R U' R2"
+        ]
+    },
+    {
+        "name": "2x2 CLL 29",
+        "algs": [
+            "R U' R' U R U' R' F R' F' R2 U R'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 30",
+        "algs": [
+            "R' F' R U R' U' R' F R2 U' R' U2 R"
+        ]
+    },
+    {
+        "name": "2x2 CLL 31",
+        "algs": [
+            "R U R' U' R' F R F'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 32",
+        "algs": [
+            "L' U' L U L F' L' F"
+        ]
+    },
+    {
+        "name": "2x2 CLL 33",
+        "algs": [
+            "F U' R U2 R' U' F2 R U R'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 34",
+        "algs": [
+            "R' U R' U2 R U2 R' U R2 U' R'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 35",
+        "algs": [
+            "R' U2 R' F2 R F2 R' F2 R2"
+        ]
+    },
+    {
+        "name": "2x2 CLL 36",
+        "algs": [
+            "R' U R U2 R2 F R F' R"
+        ]
+    },
+    {
+        "name": "2x2 CLL 37",
+        "algs": [
+            "R2 U2 R U2' R2'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 38",
+        "algs": [
+            "x' U2 R U2 R2 F2 R U2 x"
+        ]
+    },
+    {
+        "name": "2x2 CLL 39",
+        "algs": [
+            "R U R' U R U R' F R' F' R"
+        ]
+    },
+    {
+        "name": "2x2 CLL 40",
+        "algs": [
+            "F R2 U' R2' U' R2 U R2' F'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 41",
+        "algs": [
+            "R U R' F' R U R' U' R' F R2 U' R'"
+        ]
+    },
+    {
+        "name": "2x2 CLL 42",
+        "algs": [
+            "R' U R' F2 R F' U R' F2 R F' R"
+        ]
+    }
+]

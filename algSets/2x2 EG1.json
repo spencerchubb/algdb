@@ -1,0 +1,254 @@
+[
+    {
+        "name": "EG1 - 1",
+        "algs": [
+            "R' F R2 F' R2 U2 R"
+        ]
+    },
+    {
+        "name": "EG1 - 2",
+        "algs": [
+            "R U R' F2 U F R U R'"
+        ]
+    },
+    {
+        "name": "EG1 - 3",
+        "algs": [
+            "F R' F' R U R' F' R2 U R'"
+        ]
+    },
+    {
+        "name": "EG1 - 4",
+        "algs": [
+            "F' U R U' R' U F R U R'"
+        ]
+    },
+    {
+        "name": "EG1 - 5",
+        "algs": [
+            "R U' R' U R U' R' U F R U' R'"
+        ]
+    },
+    {
+        "name": "EG1 - 6",
+        "algs": [
+            "L' U L2 F' L' U L F' L' F"
+        ]
+    },
+    {
+        "name": "EG1 - 7",
+        "algs": [
+            "B U' R2 F2 U' F"
+        ]
+    },
+    {
+        "name": "EG1 - 8",
+        "algs": [
+            "R U' R' F' U' F2 R U' R'"
+        ]
+    },
+    {
+        "name": "EG1 - 9",
+        "algs": [
+            "F' L F L' U' L F L2 U' L"
+        ]
+    },
+    {
+        "name": "EG1 - 10",
+        "algs": [
+            "R U' R' F' U' R U R' U' F"
+        ]
+    },
+    {
+        "name": "EG1 - 11",
+        "algs": [
+            "R U R' F' U' R U R' U' R U R'"
+        ]
+    },
+    {
+        "name": "EG1 - 12",
+        "algs": [
+            "R U' R2 F R U' R' F R F'"
+        ]
+    },
+    {
+        "name": "EG1 - 13",
+        "algs": [
+            "F2 R U R' U2 R U R' U' F"
+        ]
+    },
+    {
+        "name": "EG1 - 14",
+        "algs": [
+            "R' F R2 U' R2 F R"
+        ]
+    },
+    {
+        "name": "EG1 - 15",
+        "algs": [
+            "F R' F U' F2 R U R"
+        ]
+    },
+    {
+        "name": "EG1 - 16",
+        "algs": [
+            "R U' R' U R U' R' F R U' R'"
+        ]
+    },
+    {
+        "name": "EG1 - 17",
+        "algs": [
+            "F U' R U2 R' F' R U R' F'"
+        ]
+    },
+    {
+        "name": "EG1 - 18",
+        "algs": [
+            "F R U' R' F R U2 R' U F'"
+        ]
+    },
+    {
+        "name": "EG1 - 19",
+        "algs": [
+            "R2 U' R' U' R U' R' U R'"
+        ]
+    },
+    {
+        "name": "EG1 - 20",
+        "algs": [
+            "x U' R' U R U' F R U R U' x'"
+        ]
+    },
+    {
+        "name": "EG1 - 21",
+        "algs": [
+            "F' U2 R U2 R' U2 F"
+        ]
+    },
+    {
+        "name": "EG1 - 22",
+        "algs": [
+            "R' F R F' R' F R2 U' R'"
+        ]
+    },
+    {
+        "name": "EG1 - 23",
+        "algs": [
+            "R U' R' U R U' R' U R' F' R F"
+        ]
+    },
+    {
+        "name": "EG1 - 24",
+        "algs": [
+            "L' U L U' L U L U' L F L' F'"
+        ]
+    },
+    {
+        "name": "EG1 - 25",
+        "algs": [
+            "R U' R' U R U' R2 F' R F"
+        ]
+    },
+    {
+        "name": "EG1 - 26",
+        "algs": [
+            "L' U L U' L' U L2 F L' F'"
+        ]
+    },
+    {
+        "name": "EG1 - 27",
+        "algs": [
+            "R' U R2 U' R2 U' F R2 U' R'"
+        ]
+    },
+    {
+        "name": "EG1 - 28",
+        "algs": [
+            "R' F2 R F' R' F R2 U R'"
+        ]
+    },
+    {
+        "name": "EG1 - 29",
+        "algs": [
+            "F' R' F R U' R U R' U' R U R'"
+        ]
+    },
+    {
+        "name": "EG1 - 30",
+        "algs": [
+            "F L F' L' U L' U' L U L' U' L"
+        ]
+    },
+    {
+        "name": "EG1 - 31",
+        "algs": [
+            "F L F' L2 U' L U L' U' L"
+        ]
+    },
+    {
+        "name": "EG1 - 32",
+        "algs": [
+            "F' R' F R2 U R' U' R U R'"
+        ]
+    },
+    {
+        "name": "EG1 - 33",
+        "algs": [
+            "R U' R2 F R U R U2 R'"
+        ]
+    },
+    {
+        "name": "EG1 - 34",
+        "algs": [
+            "R U' R' F' U' x U R' U' R U x'"
+        ]
+    },
+    {
+        "name": "EG1 - 35",
+        "algs": [
+            "R U R2' F' R F R' F' R"
+        ]
+    },
+    {
+        "name": "EG1 - 36",
+        "algs": [
+            "R U' R' U2 F R U2 R' F"
+        ]
+    },
+    {
+        "name": "EG1 - 37",
+        "algs": [
+            "R' F R2 U' R2 U' F U R"
+        ]
+    },
+    {
+        "name": "EG1 - 38",
+        "algs": [
+            "F' U R U' R2 F2 R U' F"
+        ]
+    },
+    {
+        "name": "EG1 - 39",
+        "algs": [
+            "R' U' R' F2 U F' R F'"
+        ]
+    },
+    {
+        "name": "EG1 - 40",
+        "algs": [
+            "R U R' F' R U R' U' R U R' U'"
+        ]
+    },
+    {
+        "name": "EG1 - 41",
+        "algs": [
+            "R2 U F2 U2 R2 U R2"
+        ]
+    },
+    {
+        "name": "EG1 - 42",
+        "algs": [
+            "R' D R' F2 R D' R"
+        ]
+    }
+]

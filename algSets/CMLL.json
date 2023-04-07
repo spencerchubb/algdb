@@ -1,0 +1,254 @@
+[
+    {
+        "name": "CMLL 1",
+        "algs": [
+            "R U R' U R U2 R'"
+        ]
+    },
+    {
+        "name": "CMLL 2",
+        "algs": [
+            "R U R' U R' F R F' R U2 R'"
+        ]
+    },
+    {
+        "name": "CMLL 3",
+        "algs": [
+            "F R' F' R U2 R U2 R'"
+        ]
+    },
+    {
+        "name": "CMLL 4",
+        "algs": [
+            "R U' L' U R' U' L"
+        ]
+    },
+    {
+        "name": "CMLL 5",
+        "algs": [
+            "R U R' U R U' R D R' U' R D' R2"
+        ]
+    },
+    {
+        "name": "CMLL 6",
+        "algs": [
+            "L' U2 L U2 L F' L' F"
+        ]
+    },
+    {
+        "name": "CMLL 7",
+        "algs": [
+            "L' U' L U' L' U2 L"
+        ]
+    },
+    {
+        "name": "CMLL 8",
+        "algs": [
+            "R' U' R U' R' U R' F R F' U R"
+        ]
+    },
+    {
+        "name": "CMLL 9",
+        "algs": [
+            "F' L F L' U2 L' U2 L"
+        ]
+    },
+    {
+        "name": "CMLL 10",
+        "algs": [
+            "L' U R U' L U R'"
+        ]
+    },
+    {
+        "name": "CMLL 11",
+        "algs": [
+            "R2 D R' U R D' R' U R' U' R U' R'"
+        ]
+    },
+    {
+        "name": "CMLL 12",
+        "algs": [
+            "R U2 R' U2 R' F R F'"
+        ]
+    },
+    {
+        "name": "CMLL 13",
+        "algs": [
+            "F R U R' U' R U R' U' F'"
+        ]
+    },
+    {
+        "name": "CMLL 14",
+        "algs": [
+            "R' U' R' F R F' R U' R' U2 R"
+        ]
+    },
+    {
+        "name": "CMLL 15",
+        "algs": [
+            "r U' r2' D' r U r' D r2 U r'"
+        ]
+    },
+    {
+        "name": "CMLL 16",
+        "algs": [
+            "R' F R U F U' R U R' U' F'"
+        ]
+    },
+    {
+        "name": "CMLL 17",
+        "algs": [
+            "R U2 R' U' R U R' U2 R' F R F'"
+        ]
+    },
+    {
+        "name": "CMLL 18",
+        "algs": [
+            "F R' F' R U2 R U' R' U R U2 R'"
+        ]
+    },
+    {
+        "name": "CMLL 19",
+        "algs": [
+            "F R U R' U' F'"
+        ]
+    },
+    {
+        "name": "CMLL 20",
+        "algs": [
+            "R' U' R U' R' U2 R2 U R' U R U2 R'"
+        ]
+    },
+    {
+        "name": "CMLL 21",
+        "algs": [
+            "F R2 D R' U R D' R2 U' F'"
+        ]
+    },
+    {
+        "name": "CMLL 22",
+        "algs": [
+            "r U' r' U r' D' r U' r' D r"
+        ]
+    },
+    {
+        "name": "CMLL 23",
+        "algs": [
+            "R2 D' R U2 R' D R U2 R"
+        ]
+    },
+    {
+        "name": "CMLL 24",
+        "algs": [
+            "R2 D R' U2 R D' R' U2 R'"
+        ]
+    },
+    {
+        "name": "CMLL 25",
+        "algs": [
+            "F' L F L' U' L' U L"
+        ]
+    },
+    {
+        "name": "CMLL 26",
+        "algs": [
+            "F R' F' R U R U' R'"
+        ]
+    },
+    {
+        "name": "CMLL 27",
+        "algs": [
+            "R U2 R2' F R F' R U2 R'"
+        ]
+    },
+    {
+        "name": "CMLL 28",
+        "algs": [
+            "R U R' U R U' R' U R U' R' U R U2 R'"
+        ]
+    },
+    {
+        "name": "CMLL 29",
+        "algs": [
+            "R' U2 R' D' R U2 R' D R2"
+        ]
+    },
+    {
+        "name": "CMLL 30",
+        "algs": [
+            "R U2 R D R' U2 R D' R2"
+        ]
+    },
+    {
+        "name": "CMLL 31",
+        "algs": [
+            "R U R' U' R' F R F'"
+        ]
+    },
+    {
+        "name": "CMLL 32",
+        "algs": [
+            "L' U' L U L F' L' F"
+        ]
+    },
+    {
+        "name": "CMLL 33",
+        "algs": [
+            "r U' r2' D' r U2 r' D r2 U r'"
+        ]
+    },
+    {
+        "name": "CMLL 34",
+        "algs": [
+            "R U2 R' U' R U' R2 U2 R U R' U R"
+        ]
+    },
+    {
+        "name": "CMLL 35",
+        "algs": [
+            "r' D' r U r' D r U' r U r'"
+        ]
+    },
+    {
+        "name": "CMLL 36",
+        "algs": [
+            "r' U r U2 R2 F R F' R"
+        ]
+    },
+    {
+        "name": "CMLL 37",
+        "algs": [
+            "R U R' U R U' R' U R U2 R'"
+        ]
+    },
+    {
+        "name": "CMLL 38",
+        "algs": [
+            "F R U R' U' R U R' U' R U R' U' F'"
+        ]
+    },
+    {
+        "name": "CMLL 39",
+        "algs": [
+            "r U' r2' D' r U' r' D r2 U r'"
+        ]
+    },
+    {
+        "name": "CMLL 40",
+        "algs": [
+            "R U2 R2 F R F' U2 R' F R F'"
+        ]
+    },
+    {
+        "name": "CMLL 41",
+        "algs": [
+            "R U R' F' R U R' U' R' F R2 U' R'"
+        ]
+    },
+    {
+        "name": "CMLL 42",
+        "algs": [
+            "F R U' R' U' R U R' F' R U R' U' R' F R F'"
+        ]
+    }
+]
