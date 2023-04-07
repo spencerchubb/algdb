@@ -17,7 +17,7 @@ json schema for an algorithm set:
 {
   "name": "string",
   "numAlgs": "number",
-  "puzzle": "2x2" | "3x3",
+  "puzzle": "string",
 }
 ```
 
