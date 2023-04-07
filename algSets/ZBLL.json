@@ -392,7 +392,7 @@
     {
         "name": "ZBLL 66",
         "algs": [
-            "R U R' U' R U' R'  U' F R U R' U' R' F' R"
+            "R U R' U' R U' R' U' F R U R' U' R' F' R"
         ]
     },
     {
@@ -1976,7 +1976,7 @@
     {
         "name": "ZBLL 330",
         "algs": [
-            "R' U2 R2 U R  U' R' U R U R2 U' R'"
+            "R' U2 R2 U R U' R' U R U R2 U' R'"
         ]
     },
     {
@@ -2516,7 +2516,7 @@
     {
         "name": "ZBLL 420",
         "algs": [
-            "R U  R' U' R' U' F U R2 U' R' U R U' R' F'"
+            "R U R' U' R' U' F U R2 U' R' U R U' R' F'"
         ]
     },
     {
@@ -2588,7 +2588,7 @@
     {
         "name": "ZBLL 432",
         "algs": [
-            "R U2 R' U' R U R D  R' U R D' R' U' R' U R U R'"
+            "R U2 R' U' R U R D R' U R D' R' U' R' U R U R'"
         ]
     },
     {
@@ -2672,7 +2672,7 @@
     {
         "name": "ZBLL 446",
         "algs": [
-            "R2 D R' U2 R D' R' U' R' U R U' R' U  R U2 R'"
+            "R2 D R' U2 R D' R' U' R' U R U' R' U R U2 R'"
         ]
     },
     {
