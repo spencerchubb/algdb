@@ -1,3 +1,10 @@
+/**
+ * This file prints out the following statistics:
+ * - # of alg sets
+ * - # of cases
+ * - # of algs
+ */
+
 const inDir = "algSets";
 
 const fs = require("fs");

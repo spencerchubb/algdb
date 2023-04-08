@@ -4,7 +4,7 @@ This is an open source cubing algorithm database. It is free for anyone to use a
 
 - Alg sets: 8
 - Cases: 787
-- Algs: 839
+- Algs: 1010
 
 View the website [here](https://cubingapp.com/algdb.html)
 
