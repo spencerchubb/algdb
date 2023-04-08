@@ -8,9 +8,12 @@ This is an open source cubing algorithm database. It is free for anyone to use a
 
 View the website [here](https://cubingapp.com/algdb.html)
 
-## [Contribute to the database here](https://github.com/spencerchubb/algdb/issues/new)
+## [Leave suggestions here](https://github.com/spencerchubb/algdb/issues/new)
 
-If you know how to use github, feel free to submit issues and pull requests.
+You can help in many ways:
+- Suggest algorithms
+- Suggest new ideas
+- Let me know about an issue
 
 ## Schema
 
