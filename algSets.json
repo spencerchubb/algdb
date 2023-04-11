@@ -40,8 +40,8 @@
         "puzzle": "3x3"
     },
     {
-        "name":"4x4 OLL Parity",
-        "cases":22,
-        "puzzle":"4x4"
+        "name": "4x4 OLL Parity",
+        "cases": 22,
+        "puzzle": "4x4"
     },
 ]
