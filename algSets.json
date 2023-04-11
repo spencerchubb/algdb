@@ -38,5 +38,10 @@
         "name": "ZBLL",
         "cases": 472,
         "puzzle": "3x3"
-    }
+    },
+    {
+        "name": "4x4 PLL Parity",
+        "cases": 22,
+        "puzzle": "4x4"
+    },
 ]
