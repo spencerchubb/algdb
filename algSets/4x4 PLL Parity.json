@@ -14,7 +14,7 @@
     {
         "name": "CwO",
         "algs": [
-            "M2 U' M2 U' M' U2 M2 U2 M' Parity Alg (2R2)M2 U' M2 U' M' U2 M2 U2 M' 2R2 U2 2R2 Uw2 2R2 Uw2"
+            "M2 U M2 U M' U2 M2 U2 M' U 2L2 U2 2L2 Uw2 2L2 Uw2"
         ]
     },
     {
@@ -26,7 +26,7 @@
     {
         "name": "W",
         "algs": [
-            "U' R U' R U R U R U' R' U' R2 Parity Alg (2R2)U' R U' R U R U R U' R' U' R2 2R2 U2 2R2 Uw2 2R2 Uw2"
+            "R' U R' U' R' U' R' U R U Rw2 U2 2R2 Uw2 2R2 Uw2"
         ]
     },
     {
@@ -86,7 +86,7 @@
     {
         "name": "M",
         "algs": [
-            "R U R' U' R' F R2 U' R' U' R U R' F' Parity Alg (2R2)R U R' U' R' F R2 U' R' U' R U R' F' 2R2 U2 2R2 Uw2 2R2 Uw2"
+            "y2 Rw2 F2 U2 2R2 U R' U' R U R' D R D' R F2 U Rw2"
         ]
     },
     {
@@ -122,7 +122,7 @@
     {
         "name": "Sb",
         "algs": [
-            "F R U' R' U' R U R' F' R U R' U' R' F R F' Parity Alg (2R2)F R U' R' U' R U R' F' R U R' U' R' F R F' 2R2 U2 2R2 Uw2 2R2 Uw2"
+            "F R U' R' U' R U R' F' R U R' U' R' F R F' 2R2 U2 2R2 u2 2R2 u2"
         ]
     },
     {
