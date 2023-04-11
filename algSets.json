@@ -44,9 +44,4 @@
         "cases": 22,
         "puzzle": "4x4"
     },
-    {
-        "name": "3x3 WV",
-        "cases": 27,
-        "puzzle": "3x3"
-    },
 ]
