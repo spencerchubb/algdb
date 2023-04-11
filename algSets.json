@@ -15,6 +15,11 @@
         "puzzle": "2x2"
     },
     {
+        "name": "4x4 PLL Parity",
+        "cases": 22,
+        "puzzle": "4x4"
+    },
+    {
         "name": "CMLL",
         "cases": 42,
         "puzzle": "3x3"
@@ -38,10 +43,5 @@
         "name": "ZBLL",
         "cases": 472,
         "puzzle": "3x3"
-    },
-    {
-        "name": "4x4 PLL Parity",
-        "cases": 22,
-        "puzzle": "4x4"
-    },
+    }
 ]
