@@ -15,6 +15,11 @@
         "puzzle": "2x2"
     },
     {
+        "name": "2x2 PBL",
+        "cases": 6,
+        "puzzle": "2x2"
+    },
+    {
         "name": "4x4 PLL Parity",
         "cases": 22,
         "puzzle": "4x4"
