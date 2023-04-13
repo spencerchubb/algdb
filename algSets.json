@@ -45,13 +45,13 @@
         "puzzle": "3x3"
     },
     {
-        "name": "ZBLL",
-        "cases": 472,
-        "puzzle": "3x3"
-    },
-    {
         "name": "Winter Variation",
         "cases": 27,
         "puzzle": "3x3"
     },
+    {
+        "name": "ZBLL",
+        "cases": 472,
+        "puzzle": "3x3"
+    }
 ]
