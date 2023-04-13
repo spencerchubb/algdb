@@ -12,6 +12,7 @@ const files = fs.readdirSync(inDir);
 let cases = {};
 
 for (const file of files) {
+    console.log("Reading file: " + file);
     const fileContents = fs.readFileSync(path.join(inDir, file));
     const json = JSON.parse(fileContents);
     cases[file] = json.length;
