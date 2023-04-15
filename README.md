@@ -2,9 +2,9 @@
 
 This is an open source cubing algorithm database. It is free for anyone to use and contribute to. The database is currently in its infancy, but we hope to grow it to be a useful resource for anyone who needs to look up an algorithm.
 
-- Alg sets: 11
-- Cases: 842
-- Algs: 1257
+- Alg sets: 12
+- Cases: 876
+- Algs: 1711
 
 View the website [here](https://cubingapp.com/algdb.html)
 
