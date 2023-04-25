@@ -75,6 +75,15 @@
         "recommended": []
     },
     {
+        "name": "OLL-CP",
+        "cases": 342,
+        "puzzle": "3x3",
+        "description": [
+            "OLLCP permutates corners while solving 3x3 OLL. OLL-CP is a superset of COLL.",
+        ],
+        "recommended": ["COLL","OLL"]
+    },
+    {
         "name": "F2L",
         "cases": 69,
         "puzzle": "3x3",
