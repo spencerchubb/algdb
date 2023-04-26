@@ -25,7 +25,7 @@ json schema for an algorithm set:
   "name": "string",
   "cases": "number",
   "puzzle": "string",
-  "description": "[string]",
+  "description": ["string"],
   "recommended": ["string"],
 }
 ```
