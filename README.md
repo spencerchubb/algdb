@@ -17,23 +17,18 @@ You can help in many ways:
 
 ## Schema
 
-The algorithms are stored in json format so it can easily be used in other projects. 
+The algorithms are stored in json format so they can easily be used in other projects. 
 
-json schema for an algorithm set:
-```json
-{
-  "name": "string",
-  "cases": "number",
-  "puzzle": "string",
-  "description": ["string"],
-  "recommended": ["string"],
-}
-```
-
-json schema for an algorithm:
-```json
-{
-  "name": "string",
-  "algs": ["string"],
+Typescript type for an algorithm set:
+```ts
+type AlgSet = {
+    name: string;
+    puzzle: string;
+    description: string[];
+    recommended: string[];
+    cases: {
+        name: string;
+        algs: string[];
+    }[];
 }
 ```

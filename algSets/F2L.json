@@ -1,416 +1,429 @@
-[
-    {
-        "name": "F2L 1",
-        "algs": [
-            "R U' R'"
-        ]
-    },
-    {
-        "name": "F2L 2",
-        "algs": [
-            "R' U R"
-        ]
-    },
-    {
-        "name": "F2L 3",
-        "algs": [
-            "L' U L"
-        ]
-    },
-    {
-        "name": "F2L 4",
-        "algs": [
-            "L U' L'"
-        ]
-    },
-    {
-        "name": "F2L 5",
-        "algs": [
-            "R U R'"
-        ]
-    },
-    {
-        "name": "F2L 6",
-        "algs": [
-            "R' U' R"
-        ]
-    },
-    {
-        "name": "F2L 7",
-        "algs": [
-            "L' U' L"
-        ]
-    },
-    {
-        "name": "F2L 8",
-        "algs": [
-            "L U L'"
-        ]
-    },
-    {
-        "name": "F2L 9",
-        "algs": [
-            "R U R' U R U R'"
-        ]
-    },
-    {
-        "name": "F2L 10",
-        "algs": [
-            "R' U' R U' R' U' R"
-        ]
-    },
-    {
-        "name": "F2L 11",
-        "algs": [
-            "L' U' L U' L' U' L"
-        ]
-    },
-    {
-        "name": "F2L 12",
-        "algs": [
-            "L U L' U L U L'"
-        ]
-    },
-    {
-        "name": "F2L 13",
-        "algs": [
-            "R' U2' R2 U R2' U R"
-        ]
-    },
-    {
-        "name": "F2L 14",
-        "algs": [
-            "R U2 R2' U' R2 U' R'"
-        ]
-    },
-    {
-        "name": "F2L 15",
-        "algs": [
-            "L U2 L2' U' L2 U' L'"
-        ]
-    },
-    {
-        "name": "F2L 16",
-        "algs": [
-            "L' U2' L2 U L2' U L"
-        ]
-    },
-    {
-        "name": "F2L 17",
-        "algs": [
-            "R U' R' U R U R'"
-        ]
-    },
-    {
-        "name": "F2L 18",
-        "algs": [
-            "R' U R U' R' U' R"
-        ]
-    },
-    {
-        "name": "F2L 19",
-        "algs": [
-            "L' U L U' L' U L"
-        ]
-    },
-    {
-        "name": "F2L 20",
-        "algs": [
-            "L U' L' U L U' L'"
-        ]
-    },
-    {
-        "name": "F2L 21",
-        "algs": [
-            "R U R' U2 R U' R'"
-        ]
-    },
-    {
-        "name": "F2L 22",
-        "algs": [
-            "R' U' R U2' R' U R"
-        ]
-    },
-    {
-        "name": "F2L 23",
-        "algs": [
-            "L' U' L U2' L' U L"
-        ]
-    },
-    {
-        "name": "F2L 24",
-        "algs": [
-            "L U L' U2 L U' L'"
-        ]
-    },
-    {
-        "name": "F2L 25",
-        "algs": [
-            "R U2 R' U2 R U' R'"
-        ]
-    },
-    {
-        "name": "F2L 26",
-        "algs": [
-            "R' U2' R U2' R' U R"
-        ]
-    },
-    {
-        "name": "F2L 27",
-        "algs": [
-            "L' U2' L U2' L' U L"
-        ]
-    },
-    {
-        "name": "F2L 28",
-        "algs": [
-            "L U2 L' U2 L U' L'"
-        ]
-    },
-    {
-        "name": "F2L 29",
-        "algs": [
-            "R U2 R' U R U' R'"
-        ]
-    },
-    {
-        "name": "F2L 30",
-        "algs": [
-            "R' U2' R U' R' U R"
-        ]
-    },
-    {
-        "name": "F2L 31",
-        "algs": [
-            "L' U2' L U' L' U L"
-        ]
-    },
-    {
-        "name": "F2L 32",
-        "algs": [
-            "L U2 L' U L U' L'"
-        ]
-    },
-    {
-        "name": "F2L 33",
-        "algs": [
-            "R U R' U R U' R'"
-        ]
-    },
-    {
-        "name": "F2L 34",
-        "algs": [
-            "R' U' R U' R' U R"
-        ]
-    },
-    {
-        "name": "F2L 35",
-        "algs": [
-            "L' U' L U' L' U L"
-        ]
-    },
-    {
-        "name": "F2L 36",
-        "algs": [
-            "L U L' U L U' L'"
-        ]
-    },
-    {
-        "name": "F2L 37",
-        "algs": [
-            "F' U F U2 R U R'"
-        ]
-    },
-    {
-        "name": "F2L 38",
-        "algs": [
-            "R' U' R U2' R' U R U' R' U R"
-        ]
-    },
-    {
-        "name": "F2L 39",
-        "algs": [
-            "F U' F' U2' L' U' L"
-        ]
-    },
-    {
-        "name": "F2L 40",
-        "algs": [
-            "L U L' U2 L U' L' U L U' L'"
-        ]
-    },
-    {
-        "name": "F2L 41",
-        "algs": [
-            "R U2 R' U' R U R'"
-        ]
-    },
-    {
-        "name": "F2L 42",
-        "algs": [
-            "R' U2' R U R' U' R"
-        ]
-    },
-    {
-        "name": "F2L 43",
-        "algs": [
-            "L' U2' L U L' U' L"
-        ]
-    },
-    {
-        "name": "F2L 44",
-        "algs": [
-            "L U2 L' U L U' L'"
-        ]
-    },
-    {
-        "name": "F2L 45",
-        "algs": [
-            "R U' R' U' R U' R' U R U' R'"
-        ]
-    },
-    {
-        "name": "F2L 46",
-        "algs": [
-            "R' U R U R' U R U' R' U R"
-        ]
-    },
-    {
-        "name": "F2L 47",
-        "algs": [
-            "L' U L U L' U L U' L' U L"
-        ]
-    },
-    {
-        "name": "F2L 48",
-        "algs": [
-            "L U' L' U' L U' L' U' L U' L'"
-        ]
-    },
-    {
-        "name": "F2L 49",
-        "algs": [
-            "F' R U R' U' R' F R"
-        ]
-    },
-    {
-        "name": "F2L 50",
-        "algs": [
-            "R U' R' F R' F' R"
-        ]
-    },
-    {
-        "name": "F2L 51",
-        "algs": [
-            "R U' R' U R U' R'"
-        ]
-    },
-    {
-        "name": "F2L 52",
-        "algs": [
-            "L' U L U' L' U L"
-        ]
-    },
-    {
-        "name": "F2L 53",
-        "algs": [
-            "R U R' U' R U R'"
-        ]
-    },
-    {
-        "name": "F2L 54",
-        "algs": [
-            "L' U' L U L' U' L"
-        ]
-    },
-    {
-        "name": "F2L 55",
-        "algs": [
-            "R U' R' U2 R U' R'"
-        ]
-    },
-    {
-        "name": "F2L 56",
-        "algs": [
-            "L' U L U2' L' U L"
-        ]
-    },
-    {
-        "name": "F2L 57",
-        "algs": [
-            "R U' R' U R U' R' U R U' R'"
-        ]
-    },
-    {
-        "name": "F2L 58",
-        "algs": [
-            "R' U R U' R' U R U' R' U R"
-        ]
-    },
-    {
-        "name": "F2L 59",
-        "algs": [
-            "L' U L U' L' U L U' L' U L"
-        ]
-    },
-    {
-        "name": "F2L 60",
-        "algs": [
-            "L U' L' U L U' L' U L U' L'"
-        ]
-    },
-    {
-        "name": "F2L 61",
-        "algs": [
-            "R' F R F' R U' R'"
-        ]
-    },
-    {
-        "name": "F2L 62",
-        "algs": [
-            "L F' L' F L' U L"
-        ]
-    },
-    {
-        "name": "F2L 63",
-        "algs": [
-            "R U R' U F' U' F"
-        ]
-    },
-    {
-        "name": "F2L 64",
-        "algs": [
-            "L' U' L U' F U F'"
-        ]
-    },
-    {
-        "name": "F2L 65",
-        "algs": [
-            "R U' R' U' R U R' U2 R U' R'"
-        ]
-    },
-    {
-        "name": "F2L 66",
-        "algs": [
-            "L' U L U L' U' L U2' L' U L"
-        ]
-    },
-    {
-        "name": "F2L 67",
-        "algs": [
-            "F' U F U2 R U R' U R U' R'"
-        ]
-    },
-    {
-        "name": "F2L 68",
-        "algs": [
-            "R U R' U' R U' R' U2 F' U' F"
-        ]
-    },
-    {
-        "name": "F2L 69",
-        "algs": [
-            "R U R' U2 R U2 R' U F' U' F"
-        ]
-    }
-]
+{
+    "name": "F2L",
+    "puzzle": "3x3",
+    "description": [
+        "First Two Layers (also called F2L) is the second stop of the CFOP Rubik's Cube method. This step comes after the cross.",
+        "In F2L, there are 4 slots to solve. Typically cubers solve one slot at a time by forming a corner-edge pair, then inserting the pair into its slot.",
+        "This algorithm set is different from other sets. With sets like OLL and PLL, you learn them through rote memorization. However, with F2L it is recommended to understand the algorithms intuitively."
+    ],
+    "recommended": [
+        "OLL",
+        "PLL"
+    ],
+    "cases": [
+        {
+            "name": "F2L 1",
+            "algs": [
+                "R U' R'"
+            ]
+        },
+        {
+            "name": "F2L 2",
+            "algs": [
+                "R' U R"
+            ]
+        },
+        {
+            "name": "F2L 3",
+            "algs": [
+                "L' U L"
+            ]
+        },
+        {
+            "name": "F2L 4",
+            "algs": [
+                "L U' L'"
+            ]
+        },
+        {
+            "name": "F2L 5",
+            "algs": [
+                "R U R'"
+            ]
+        },
+        {
+            "name": "F2L 6",
+            "algs": [
+                "R' U' R"
+            ]
+        },
+        {
+            "name": "F2L 7",
+            "algs": [
+                "L' U' L"
+            ]
+        },
+        {
+            "name": "F2L 8",
+            "algs": [
+                "L U L'"
+            ]
+        },
+        {
+            "name": "F2L 9",
+            "algs": [
+                "R U R' U R U R'"
+            ]
+        },
+        {
+            "name": "F2L 10",
+            "algs": [
+                "R' U' R U' R' U' R"
+            ]
+        },
+        {
+            "name": "F2L 11",
+            "algs": [
+                "L' U' L U' L' U' L"
+            ]
+        },
+        {
+            "name": "F2L 12",
+            "algs": [
+                "L U L' U L U L'"
+            ]
+        },
+        {
+            "name": "F2L 13",
+            "algs": [
+                "R' U2' R2 U R2' U R"
+            ]
+        },
+        {
+            "name": "F2L 14",
+            "algs": [
+                "R U2 R2' U' R2 U' R'"
+            ]
+        },
+        {
+            "name": "F2L 15",
+            "algs": [
+                "L U2 L2' U' L2 U' L'"
+            ]
+        },
+        {
+            "name": "F2L 16",
+            "algs": [
+                "L' U2' L2 U L2' U L"
+            ]
+        },
+        {
+            "name": "F2L 17",
+            "algs": [
+                "R U' R' U R U R'"
+            ]
+        },
+        {
+            "name": "F2L 18",
+            "algs": [
+                "R' U R U' R' U' R"
+            ]
+        },
+        {
+            "name": "F2L 19",
+            "algs": [
+                "L' U L U' L' U L"
+            ]
+        },
+        {
+            "name": "F2L 20",
+            "algs": [
+                "L U' L' U L U' L'"
+            ]
+        },
+        {
+            "name": "F2L 21",
+            "algs": [
+                "R U R' U2 R U' R'"
+            ]
+        },
+        {
+            "name": "F2L 22",
+            "algs": [
+                "R' U' R U2' R' U R"
+            ]
+        },
+        {
+            "name": "F2L 23",
+            "algs": [
+                "L' U' L U2' L' U L"
+            ]
+        },
+        {
+            "name": "F2L 24",
+            "algs": [
+                "L U L' U2 L U' L'"
+            ]
+        },
+        {
+            "name": "F2L 25",
+            "algs": [
+                "R U2 R' U2 R U' R'"
+            ]
+        },
+        {
+            "name": "F2L 26",
+            "algs": [
+                "R' U2' R U2' R' U R"
+            ]
+        },
+        {
+            "name": "F2L 27",
+            "algs": [
+                "L' U2' L U2' L' U L"
+            ]
+        },
+        {
+            "name": "F2L 28",
+            "algs": [
+                "L U2 L' U2 L U' L'"
+            ]
+        },
+        {
+            "name": "F2L 29",
+            "algs": [
+                "R U2 R' U R U' R'"
+            ]
+        },
+        {
+            "name": "F2L 30",
+            "algs": [
+                "R' U2' R U' R' U R"
+            ]
+        },
+        {
+            "name": "F2L 31",
+            "algs": [
+                "L' U2' L U' L' U L"
+            ]
+        },
+        {
+            "name": "F2L 32",
+            "algs": [
+                "L U2 L' U L U' L'"
+            ]
+        },
+        {
+            "name": "F2L 33",
+            "algs": [
+                "R U R' U R U' R'"
+            ]
+        },
+        {
+            "name": "F2L 34",
+            "algs": [
+                "R' U' R U' R' U R"
+            ]
+        },
+        {
+            "name": "F2L 35",
+            "algs": [
+                "L' U' L U' L' U L"
+            ]
+        },
+        {
+            "name": "F2L 36",
+            "algs": [
+                "L U L' U L U' L'"
+            ]
+        },
+        {
+            "name": "F2L 37",
+            "algs": [
+                "F' U F U2 R U R'"
+            ]
+        },
+        {
+            "name": "F2L 38",
+            "algs": [
+                "R' U' R U2' R' U R U' R' U R"
+            ]
+        },
+        {
+            "name": "F2L 39",
+            "algs": [
+                "F U' F' U2' L' U' L"
+            ]
+        },
+        {
+            "name": "F2L 40",
+            "algs": [
+                "L U L' U2 L U' L' U L U' L'"
+            ]
+        },
+        {
+            "name": "F2L 41",
+            "algs": [
+                "R U2 R' U' R U R'"
+            ]
+        },
+        {
+            "name": "F2L 42",
+            "algs": [
+                "R' U2' R U R' U' R"
+            ]
+        },
+        {
+            "name": "F2L 43",
+            "algs": [
+                "L' U2' L U L' U' L"
+            ]
+        },
+        {
+            "name": "F2L 44",
+            "algs": [
+                "L U2 L' U L U' L'"
+            ]
+        },
+        {
+            "name": "F2L 45",
+            "algs": [
+                "R U' R' U' R U' R' U R U' R'"
+            ]
+        },
+        {
+            "name": "F2L 46",
+            "algs": [
+                "R' U R U R' U R U' R' U R"
+            ]
+        },
+        {
+            "name": "F2L 47",
+            "algs": [
+                "L' U L U L' U L U' L' U L"
+            ]
+        },
+        {
+            "name": "F2L 48",
+            "algs": [
+                "L U' L' U' L U' L' U' L U' L'"
+            ]
+        },
+        {
+            "name": "F2L 49",
+            "algs": [
+                "F' R U R' U' R' F R"
+            ]
+        },
+        {
+            "name": "F2L 50",
+            "algs": [
+                "R U' R' F R' F' R"
+            ]
+        },
+        {
+            "name": "F2L 51",
+            "algs": [
+                "R U' R' U R U' R'"
+            ]
+        },
+        {
+            "name": "F2L 52",
+            "algs": [
+                "L' U L U' L' U L"
+            ]
+        },
+        {
+            "name": "F2L 53",
+            "algs": [
+                "R U R' U' R U R'"
+            ]
+        },
+        {
+            "name": "F2L 54",
+            "algs": [
+                "L' U' L U L' U' L"
+            ]
+        },
+        {
+            "name": "F2L 55",
+            "algs": [
+                "R U' R' U2 R U' R'"
+            ]
+        },
+        {
+            "name": "F2L 56",
+            "algs": [
+                "L' U L U2' L' U L"
+            ]
+        },
+        {
+            "name": "F2L 57",
+            "algs": [
+                "R U' R' U R U' R' U R U' R'"
+            ]
+        },
+        {
+            "name": "F2L 58",
+            "algs": [
+                "R' U R U' R' U R U' R' U R"
+            ]
+        },
+        {
+            "name": "F2L 59",
+            "algs": [
+                "L' U L U' L' U L U' L' U L"
+            ]
+        },
+        {
+            "name": "F2L 60",
+            "algs": [
+                "L U' L' U L U' L' U L U' L'"
+            ]
+        },
+        {
+            "name": "F2L 61",
+            "algs": [
+                "R' F R F' R U' R'"
+            ]
+        },
+        {
+            "name": "F2L 62",
+            "algs": [
+                "L F' L' F L' U L"
+            ]
+        },
+        {
+            "name": "F2L 63",
+            "algs": [
+                "R U R' U F' U' F"
+            ]
+        },
+        {
+            "name": "F2L 64",
+            "algs": [
+                "L' U' L U' F U F'"
+            ]
+        },
+        {
+            "name": "F2L 65",
+            "algs": [
+                "R U' R' U' R U R' U2 R U' R'"
+            ]
+        },
+        {
+            "name": "F2L 66",
+            "algs": [
+                "L' U L U L' U' L U2' L' U L"
+            ]
+        },
+        {
+            "name": "F2L 67",
+            "algs": [
+                "F' U F U2 R U R' U R U' R'"
+            ]
+        },
+        {
+            "name": "F2L 68",
+            "algs": [
+                "R U R' U' R U' R' U2 F' U' F"
+            ]
+        },
+        {
+            "name": "F2L 69",
+            "algs": [
+                "R U R' U2 R U2 R' U F' U' F"
+            ]
+        }
+    ]
+}
