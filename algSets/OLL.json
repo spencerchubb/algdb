@@ -1,5 +1,4 @@
 {
-    "name": "OLL",
     "puzzle": "3x3",
     "description": [
         "Orientation of Last Layer (also called OLL) is the third step of the CFOP Rubik's Cube method. This step is used to orient the last layer of the cube. That means if you start by solving the white cross, for example, the goal of OLL is to get all the yellow stickers on top."

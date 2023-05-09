@@ -1,5 +1,4 @@
 {
-    "name": "CMLL",
     "puzzle": "3x3",
     "description": [
         "CMLL is the third step of the Roux method, after solving the first two blocks. The goal of this step is to solve the corners of the last layer without considering the M-slice.",

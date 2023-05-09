@@ -1,5 +1,4 @@
 {
-    "name": "COLL",
     "puzzle": "3x3",
     "description": [
         "COLL is an algorithm set to solve the corners of the last layer when edges are already oriented. This algorithm set is typically used in CFOP, but it is optional. Cubers who learn COLL only use it when a good opportunity arises.",

@@ -1,5 +1,4 @@
 {
-    "name": "OLLCP",
     "puzzle": "3x3",
     "description": [
         "OLLCP stands for Orientation of Last Layer and Corner Permutation. As the name implies, this step solves OLL and corner permutation at the same time.",

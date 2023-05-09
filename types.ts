@@ -8,7 +8,6 @@ type AlgSetCase = {
 };
 
 type AlgSet = {
-    name: string;
     puzzle: string;
     description: string[];
     recommended: string[];

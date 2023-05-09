@@ -1,5 +1,4 @@
 {
-    "name": "4x4 PLL Parity",
     "puzzle": "4x4",
     "description": [
         "When you are solving a 4x4, PLL parity can significantly slow down a solve. Luckily, there are some tricks you can use to minimize the damage without learning too mamny new algorithms.",

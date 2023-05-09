@@ -1,5 +1,4 @@
 {
-    "name": "2x2 PBL",
     "puzzle": "2x2",
     "description": [
         "PBL stands for Permutation of Both Layers. It is a good intermediat emethod for 2x2 solvers after they have learned a beginner method.",

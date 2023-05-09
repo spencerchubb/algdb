@@ -1,5 +1,4 @@
 {
-    "name": "ZBLL",
     "puzzle": "3x3",
     "description": [
         "ZBLL is short for Zborowski-Bruchem Last Layer, and it is used to solve the entire last layer in 1 step. This algorithm set can be used when the last layer edges are oriented. Therefore, ZBLL is a subset of full 1-look last layer, which has approximately 6x as many algorithms because there are 6 cases for edge orientation.",
