@@ -18,11 +18,19 @@ let numAlgs = 0;
 for (const file of files) {
     const fileContents = fs.readFileSync(path.join(inDir, file));
     const json = JSON.parse(fileContents);
-    const cases = json.cases;
-    numCases += cases.length;
-    cases.forEach(algCase => {
-        numAlgs += algCase.algs.length;
-    })
+
+    numCases += json.cases.length;
+
+    json.cases.forEach(case_ => {
+        if (case_.algs) {
+            numAlgs += case_.algs.length;
+        }
+        if (case_.variants) {
+            case_.variants.forEach(variant => {
+                numAlgs += variant.algs.length;
+            });
+        }
+    });
 }
 
 // Put 2 spaces so it makes a new line in markdown
