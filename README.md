@@ -2,9 +2,9 @@
 
 This is an open source cubing algorithm database. It is free for anyone to use and contribute to. The database is currently in its infancy, but we hope to grow it to be a useful resource for anyone who needs to look up an algorithm.
 
-- Alg sets: 13
-- Cases: 1190
-- Algs: 3168
+- Alg sets: 14
+- Cases: 1232
+- Algs: 3272
 
 View the website [here](https://cubingapp.com/algdb.html)
 
@@ -37,3 +37,7 @@ type AlgSet = {
     cases: AlgSetCase[];
 }
 ```
+
+## Credits
+
+- The OH CMLL algs come from [this spreadsheet](https://docs.google.com/spreadsheets/d/1WHnksK4yyv63sv3Es-PuKfnFRtZGafqp6rEuEfOx-cg), courtesy of the Roux Method Speedsolvers Discord and Antonio Kam.

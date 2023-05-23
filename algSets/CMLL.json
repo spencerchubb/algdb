@@ -4,7 +4,7 @@
         "CMLL is the third step of the Roux method, after solving the first two blocks. The goal of this step is to solve the corners of the last layer without considering the M-slice.",
         "In contrast to other algorithm sets like COLL, this algorithm set IS allowed to disturb the M-slice. This gives more freedom and allows more efficient algorithms for some cases."
     ],
-    "recommended": [],
+    "recommended": ["OH CMLL"],
     "cases": [
         {
             "name": "O Adjacent",
@@ -70,7 +70,7 @@
             ]
         },
         {
-            "name": "Pi Down Slash",
+            "name": "Pi Backslash",
             "algs": [
                 "U F R' F' R U2 R U' R' U R U2 R'",
                 "U F U R U' R2 F' R U2 R U2 R'",
@@ -88,7 +88,7 @@
             ]
         },
         {
-            "name": "Pi Up Slash",
+            "name": "Pi Forward Slash",
             "algs": [
                 "R U2 R' U' R U R' U2 R' F R F'",
                 "R U2 R' U2 R' F R2 U R' U' F'",
@@ -115,7 +115,7 @@
             ]
         },
         {
-            "name": "U Up Slash",
+            "name": "U Forward Slash",
             "algs": [
                 "U2 R2 D R' U2 R D' R' U2 R'",
                 "r U' r' U' r U' r' U' F' U2 F",
@@ -124,7 +124,7 @@
             ]
         },
         {
-            "name": "U Down Slash",
+            "name": "U Backslash",
             "algs": [
                 "R2 D' R U2 R' D R U2 R",
                 "R' F R U R' F R U F U2 F'",
@@ -133,7 +133,7 @@
             ]
         },
         {
-            "name": "U Bottom Row",
+            "name": "U Front Row",
             "algs": [
                 "R' U' R U' R' U2 R2 U R' U R U2 R'",
                 "R2 F U' F U F2 R2 U' R' F R",
@@ -160,7 +160,7 @@
             ]
         },
         {
-            "name": "U Upper Row",
+            "name": "U Back Row",
             "algs": [
                 "U' F R U R' U' F'",
                 "U F U R U' R' F'",
@@ -192,7 +192,7 @@
             ]
         },
         {
-            "name": "T Bottom Row",
+            "name": "T Front Row",
             "algs": [
                 "r' U r U2 R2 F R F' R",
                 "R U R2 F R F' U r U r'",
@@ -201,7 +201,7 @@
             ]
         },
         {
-            "name": "T Top Row",
+            "name": "T Back Row",
             "algs": [
                 "r' D' r U r' D r U' r U r'",
                 "U R' D R U' R U R' U R' D' R",
@@ -236,7 +236,7 @@
             ]
         },
         {
-            "name": "Sune Up Slash",
+            "name": "Sune Forward Slash",
             "algs": [
                 "U F R' F' R U2 R U2 R'",
                 "U F U R U' R2 F' R U R U' R'"
@@ -261,7 +261,7 @@
             ]
         },
         {
-            "name": "Sune Down Slash",
+            "name": "Sune Backslash",
             "algs": [
                 "U r U' r' F R' F' R",
                 "U R U' L' U R' U' L",
@@ -287,7 +287,7 @@
             ]
         },
         {
-            "name": "Anti Sune Down Slash",
+            "name": "Anti Sune Backslash",
             "algs": [
                 "U' F' r U r' U2 r' F2 r",
                 "U' F' L F L' U2 L' U2 L",
@@ -305,7 +305,7 @@
             ]
         },
         {
-            "name": "Anti Sune Up Slash",
+            "name": "Anti Sune Forward Slash",
             "algs": [
                 "U' R' F R F' r U r'",
                 "U' r' F R F' r U R'",
