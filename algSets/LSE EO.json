@@ -6,7 +6,7 @@
         "4b: Solve upper left and upper right edges (ULUR)",
         "4c: Solve middle edges"
     ],
-    "recommended": [],
+    "recommended": ["LSE EOLR", "CMLL"],
     "cases": [
         {
             "name": "Front Arrow",
@@ -23,54 +23,54 @@
             ]
         },
         {
-            "name": "Adjacent - 2",
-            "algs": [
-                "M2 U' M' U' M'"
-            ]
-        },
-        {
-            "name": "Front 1 - 1",
+            "name": "Front 1 / 1",
             "algs": [
                 "M U' M' U' M U' M'",
                 "M U M' U M U M'"
             ]
         },
         {
-            "name": "Back 1 - 1",
+            "name": "Back 1 / 1",
             "algs": [
                 "M' U' M U' M' U' M'",
                 "M' U M U M' U M"
             ]
         },
         {
-            "name": "4 - 0",
+            "name": "2 Adj / 2",
             "algs": [
-                "M' U2 M' U2 M' U' M'",
-                "M' U2 M' U2 M' U M'"
+                "M2 U' M' U' M'"
             ]
         },
         {
-            "name": "Opposite - 2",
+            "name": "2 Adj / 0",
+            "algs": [
+                "M' U' M' U2 M' U' M'"
+            ]
+        },
+        {
+            "name": "2 Opp / 2",
             "algs": [
                 "M' U2 M' U2 M U' M'"
             ]
         },
         {
-            "name": "Opposite - 0",
+            "name": "2 Opp / 0",
             "algs": [
                 "M' U' M U M' U' M'"
             ]
         },
         {
-            "name": "0 - Opposite",
+            "name": "0 / 2",
             "algs": [
                 "M' U' M' U M U' M'"
             ]
         },
         {
-            "name": "Adjacent - 0",
+            "name": "4 / 0",
             "algs": [
-                "M' U' M' U2 M' U' M'"
+                "M' U2 M' U2 M' U' M'",
+                "M' U2 M' U2 M' U M'"
             ]
         },
         {

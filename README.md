@@ -2,9 +2,9 @@
 
 This is an open source cubing algorithm database. It is free for anyone to use and contribute to. The database is currently in its infancy, but we hope to grow it to be a useful resource for anyone who needs to look up an algorithm.
 
-- Alg sets: 15
-- Cases: 1243
-- Algs: 3288
+- Alg sets: 16
+- Cases: 1290
+- Algs: 3338
 
 View the website [here](https://cubingapp.com/algdb.html)
 
@@ -19,21 +19,23 @@ You can help in many ways:
 
 The algorithms are stored in json format so they can easily be used in other projects. 
 
-Typescript type for an algorithm set:
+Typescript types:
 ```ts
 type AlgSetCase = {
     name: string;
+    setup?: string;
     algs?: string[];
     variants?: {
         name: string;
         algs: string[];
     }[];
-};
+}
 
 type AlgSet = {
     puzzle: string;
     description: string[];
     recommended: string[];
+    setup?: string;
     cases: AlgSetCase[];
 }
 ```
