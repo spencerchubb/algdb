@@ -43,3 +43,4 @@ type AlgSet = {
 ## Credits
 
 - The OH CMLL algs come from [this spreadsheet](https://docs.google.com/spreadsheets/d/1WHnksK4yyv63sv3Es-PuKfnFRtZGafqp6rEuEfOx-cg), courtesy of the Roux Method Speedsolvers Discord and Antonio Kam.
+- OLLCP, WV, PBL, and 4x4 PLL were sourced from the speedcubedb website.
