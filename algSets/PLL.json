@@ -96,7 +96,7 @@
             ]
         },
         {
-            "name": "Na",
+            "name": "Na perm",
             "algs": [
                 "R U R' U R U R' F' R U R' U' R' F R2 U' R' U2 R U' R'",
                 "F' R U R' U' R' F R2 F U' R' U' R U F' R'",
@@ -105,7 +105,7 @@
             ]
         },
         {
-            "name": "Nb",
+            "name": "Nb perm",
             "algs": [
                 "r' D' F r U' r' F' D r2 U r' U' r' F r F'",
                 "R' U R U' R' F' U' F R U R' F R' F' R U' R",
