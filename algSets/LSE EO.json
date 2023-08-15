@@ -1,12 +1,5 @@
 {
     "puzzle": "3x3",
-    "description": [
-        "Last Six Edges Edge Orientation (LSE EO) is a substep of the Roux method. Since LSE is the 4th step, the substeps are typically called 4a, 4b, and 4c. This algorithm set is for substep 4a.",
-        "4a: Edge orientation (EO)",
-        "4b: Solve upper left and upper right edges (ULUR)",
-        "4c: Solve middle edges"
-    ],
-    "recommended": ["LSE EOLR", "CMLL"],
     "cases": [
         {
             "name": "Front Arrow",

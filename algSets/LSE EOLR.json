@@ -1,11 +1,5 @@
 {
     "puzzle": "3x3",
-    "description": [
-        "Roux EOLR is an advanced Roux technique that stands for Edge Orientation Left and Right. EOLR combines substeps 4a and 4b to save moves, and ultimately make the solve faster.",
-        "The EOLR algorithms should be intuitive, meaning that you can understand the solutions rather than memorizing the solutions with brute force. Due to the intuitive nature, this algorithm set does not include mirror cases.",
-        "The goal of EOLR is to solve edge orientation while getting the UL and UR edgeson bottom. Getting ULUR on bottom allows them to be inserted with just an M2."
-    ],
-    "recommended": ["LSE EO", "CMLL"],
     "setup": "U' M2",
     "cases": [
         {

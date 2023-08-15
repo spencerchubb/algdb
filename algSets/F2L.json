@@ -1,14 +1,5 @@
 {
     "puzzle": "3x3",
-    "description": [
-        "First Two Layers (also called F2L) is the second stop of the CFOP Rubik's Cube method. This step comes after the cross.",
-        "In F2L, there are 4 slots to solve. Typically cubers solve one slot at a time by forming a corner-edge pair, then inserting the pair into its slot.",
-        "This algorithm set is different from other sets. With sets like OLL and PLL, you learn them through rote memorization. However, with F2L it is recommended to understand the algorithms intuitively."
-    ],
-    "recommended": [
-        "OLL",
-        "PLL"
-    ],
     "cases": [
         {
             "name": "F2L 1",

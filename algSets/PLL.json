@@ -1,12 +1,5 @@
 {
     "puzzle": "3x3",
-    "description": [
-        "Permutation of Last Layer (also called PLL) is the last step of the CFOP Rubik's Cube method. Up to this point, the first two layers should be solved, and the last layer should be oriented. Since orientation of last layer was completed in the previous step, permuting the pieces should solve the rest of the cube."
-    ],
-    "recommended": [
-        "F2L",
-        "OLL"
-    ],
     "cases": [
         {
             "name": "Aa perm",

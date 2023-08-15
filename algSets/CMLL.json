@@ -1,10 +1,5 @@
 {
     "puzzle": "3x3",
-    "description": [
-        "CMLL is the third step of the Roux method, after solving the first two blocks. The goal of this step is to solve the corners of the last layer without considering the M-slice.",
-        "In contrast to other algorithm sets like COLL, this algorithm set IS allowed to disturb the M-slice. This gives more freedom and allows more efficient algorithms for some cases."
-    ],
-    "recommended": ["OH CMLL"],
     "cases": [
         {
             "name": "O Adjacent",

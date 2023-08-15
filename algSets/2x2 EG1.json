@@ -1,16 +1,5 @@
 {
     "puzzle": "2x2",
-    "description": [
-        "EG1 is commonly learned after CLL. CLL, EG1, and EG2 go hand in hand. These three algorithm sets will allow you to solve the entire cube after solving one face.",
-        "CLL: First layer is solved. This occurs 1/6th of the time",
-        "EG1: First layer has an adjacent swap. This occurs 4/6th of the time",
-        "EG2: First layer has a diagonal swap. This occurs 1/6th of the time"
-    ],
-    "recommended": [
-        "2x2 PBL",
-        "2x2 CLL",
-        "2x2 EG2"
-    ],
     "cases": [
         {
             "name": "EG1 AS 1",

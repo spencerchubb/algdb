@@ -1,9 +1,5 @@
 {
     "puzzle": "3x3",
-    "description": [
-        "The One-Handed CMLL algorithm set (also called OH CMLL) is optimized to solve the CMLL step of the Roux method with one hand. It is more fingertrick-friendly for one-handed solves."
-    ],
-    "recommended": ["CMLL"],
     "cases": [
         {
             "name": "O Adjacent",
