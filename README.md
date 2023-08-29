@@ -29,9 +29,19 @@ For example, a Dot OLL algorithm would be stored like this:
 },
 ```
 
-### 2. Add new algorithms or algorithm sets
+### 2. Add prime when appropriate
 
-### 3. [Leave suggestions here](https://github.com/spencerchubb/algdb/issues/new)
+One way we can enhance the database is to add primes to any algorithms that need it.
+
+Here's an example showing when it's appropriate to use prime:
+```
+R U2 R2 U' R2 U' R2 U2 R // Only uses R2
+R U2 R2' U' R2 U' R2' U2 R // Uses R2 and R2' when appropriate
+```
+
+### 3. Add new algorithms or algorithm sets
+
+### 4. [Leave suggestions here](https://github.com/spencerchubb/algdb/issues/new)
 
 ## Credits
 
