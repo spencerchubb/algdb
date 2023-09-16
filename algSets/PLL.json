@@ -3,7 +3,7 @@
     "cases": [
         {
             "name": "Aa perm",
-            "subsets": ["Corner cycle"],
+            "subsets": ["Adj corners"],
             "algs": [
                 "x R' U R' D2 R U' R' D2 R2 x'",
                 "R' F R' B2 R F' R' B2 R2",
@@ -12,7 +12,7 @@
         },
         {
             "name": "Ab perm",
-            "subsets": ["Corner cycle"],
+            "subsets": ["Adj corners"],
             "algs": [
                 "x R2' D2 R U R' D2 R U' R x'",
                 "R2 B2 R F R' B2 R F' R",
